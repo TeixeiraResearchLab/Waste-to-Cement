@@ -20,3 +20,5 @@ Lifecycle Analysis:
 3. Extract all files
 4. Run files
 5. Under WTP Results, search for NES Mineralization, v3 for most recent model
+
+For all questions, contact Dr. Andrew Teixeira  (arteixeira@wpi.edu)
